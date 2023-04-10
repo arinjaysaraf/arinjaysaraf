@@ -9,7 +9,7 @@ I turn coffee☕ into code.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arinjaysaraf&show_icons=true&theme=radical" alt="GitHub Stats" /><br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arinjaysaraf&theme=radical" alt="GitHub Streak" /><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arinjaysaraf&layout=compact&theme=radical" alt="Most Used Languages" /><br/><br/>
+<br/>
   <img src="https://github-profile-trophy.vercel.app/?username=arinjaysaraf&theme=radical&margin-w=15&margin-h=15&column=7" alt="Trophies" /><br/>
 </p>
 
