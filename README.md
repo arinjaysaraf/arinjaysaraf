@@ -21,6 +21,6 @@ I turn coffee into code.</p>
 <li>I enjoy playing badminton</li>
 </ul>
 <h2 id="-socials-">🌐 Socials:</h2>
-<p><a href="https://linkedin.com/in/linkedin.com/in/arinjay-saraf/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a> <a href="https://twitter.com/twitter/arinjaysaraf"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&amp;logoColor=white" alt="Twitter"></a> </p>
+<p><a href="https://linkedin.com/in/arinjay-saraf/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a> <a href="https://twitter.com/arinjaysaraf"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&amp;logoColor=white" alt="Twitter"></a> </p>
 <hr>
 <p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=arinjaysaraf&amp;icon=0&amp;color=0" alt=""></a></p>
